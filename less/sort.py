@@ -65,3 +65,4 @@ print("До сортировки:", ["str", "kot", "kit", "Олег", "Алек�
 print("bubble_sort:", bubble_sort(["str", "kot", "kit", "Олег", "Александр", "opus", "apple", "28.12.2019", "21.08.2020"]))
 print("choice_sort:", choice_sort(["str", "kot", "kit", "Олег", "Александр", "opus", "apple", "28.12.2019", "21.08.2020"]))
 print("insert_sort:", insert_sort(["str", "kot", "kit", "Олег", "Александр", "opus", "apple", "28.12.2019", "21.08.2020"]))
+print("insert_sort:", insert_sort(list(range(1, 2510))))
